@@ -1,4 +1,4 @@
 # Django-API--Vue-Front-End-Web-
 bir sanal dondurma fabrikasının müşteri - satıcı arayüzleri bulunan üretim yapan localhosta çalışan websitesi
-sadece django yani api kısmı vardır. 
-vue tarafı boyuttan dolayı yoktur.
+django yani api kısmı ve vue web olarak 2 ayrı kısmı vardır. modülleri yükledikten sonra açılır.
+
